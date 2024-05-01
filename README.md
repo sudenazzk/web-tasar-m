@@ -1,2 +1,2 @@
-# web-tasar-m
+# web-tasarım
 Bu repoyu "başlangıç seviye web site tasarım" derslerde aldığım not ve örnekleri paylaşmak için oluşturdum.
